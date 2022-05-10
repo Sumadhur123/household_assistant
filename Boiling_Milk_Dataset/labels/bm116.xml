@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>bm116.jpg</filename>
+	<path>C:\Users\sumov\OneDrive\Desktop\Boiling_Milk_Dataset\images\bm116.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>368</width>
+		<height>657</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Boiled</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>111</xmin>
+			<ymin>191</ymin>
+			<xmax>296</xmax>
+			<ymax>365</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>bm145.jpg</filename>
+	<path>C:\Users\sumov\OneDrive\Desktop\Boiling_Milk_Dataset\images\bm145.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>510</width>
+		<height>664</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Steaming</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>120</xmin>
+			<ymin>230</ymin>
+			<xmax>351</xmax>
+			<ymax>427</ymax>
+		</bndbox>
+	</object>
+</annotation>
